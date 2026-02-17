@@ -1,1 +1,5 @@
 .env
+.DS_Store
+stock_data/
+processed_data/
+date_ranges.txt
